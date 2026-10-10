@@ -5,7 +5,7 @@
 </head>
 <body>
     <h1>Point of Sale System</h1>
-
+codeigniter-pos-foundations
     <p>Welcome to our CodeIgniter POS application.</p>
 
     <nav>
